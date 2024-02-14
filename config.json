@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "000",
+		"blogger_id": "902670535337689127",
 		"api_key": "AIzaSyDfW5y44SYOMh0DUIu9d46u5ER1RqPtiA0,AIzaSyDLD1DZ0U8jKO9iq71r1H5gjnT99xRvCJc,AIzaSyAEUZ_0xjWqQ7EDgpqL5-RxY5kjUCGfaUo,AIzaSyATiR--WSQSat3ete0B6YEkneP_3Pk_DfM,AIzaSyC-goD1iMskBc8YnMJ_f6fxkSiH_hyVtBE,AIzaSyAVnXB4qPL-knsGLq_1aBRrDvZLG9KW8uw,AIzaSyCIB5G98-l5SAyRjKkW9-uNRSN6VIszWbw,AIzaSyBKnjxtNQf1kAlbJLpFcoFZiguTXdYxiXw,AIzaSyD0cu2-_N6T_GHXfRTptPVn51VCnfHE6DQ,AIzaSyDgSceetKrj4de76phYjkXESR0mfrO9pSc,AIzaSyDOjIaM5trIjmT9u9vNooWiYpF8Rf5mSpI"
 	},
 	"app": {
@@ -23,7 +23,7 @@
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8894440334538768",
-		"admob_app_id": "XXX",
+		"admob_app_id": "ca-app-pub-8894440334538768~4510115679",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
 		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
