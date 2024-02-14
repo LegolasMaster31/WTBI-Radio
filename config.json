@@ -1,0 +1,60 @@
+{
+	"blog": {
+		"blogger_id": "000",
+		"api_key": "AIzaSyDfW5y44SYOMh0DUIu9d46u5ER1RqPtiA0,AIzaSyDLD1DZ0U8jKO9iq71r1H5gjnT99xRvCJc,AIzaSyAEUZ_0xjWqQ7EDgpqL5-RxY5kjUCGfaUo,AIzaSyATiR--WSQSat3ete0B6YEkneP_3Pk_DfM,AIzaSyC-goD1iMskBc8YnMJ_f6fxkSiH_hyVtBE,AIzaSyAVnXB4qPL-knsGLq_1aBRrDvZLG9KW8uw,AIzaSyCIB5G98-l5SAyRjKkW9-uNRSN6VIszWbw,AIzaSyBKnjxtNQf1kAlbJLpFcoFZiguTXdYxiXw,AIzaSyD0cu2-_N6T_GHXfRTptPVn51VCnfHE6DQ,AIzaSyDgSceetKrj4de76phYjkXESR0mfrO9pSc,AIzaSyDOjIaM5trIjmT9u9vNooWiYpF8Rf5mSpI"
+	},
+	"app": {
+		"status": "1",
+		"report_email": "exlivinapps@gmail.com",
+		"custom_label_list": "true",
+		"song_metadata": "true",
+		"image_album_art": "true",
+		"blur_radio_background": "true",
+		"privacy_policy_url": "https://worldanthemcollection.blogspot.com/2024/01/privacy-policy.html",
+		"more_apps_url": "",
+		"redirect_url": ""
+	},
+	"notification": {
+		"fcm_notification_topic": "",
+		"onesignal_app_id": ""
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-8894440334538768",
+		"admob_app_id": "XXX",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"ad_manager_banner_unit_id": "/6499/example/banner",
+		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+		"ad_manager_native_unit_id": "/6499/example/native",
+		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+		"startapp_app_id": "0",
+		"unity_game_id": "0",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"ironsource_app_key": "0",
+		"ironsource_banner_placement_name": "DefaultBanner",
+		"ironsource_interstitial_placement_name": "DefaultInterstitial",
+		"interstitial_ad_interval": 2,
+		"native_ad_interval": 2,
+		"native_ad_index": 1
+	},
+	"labels": [
+		{
+			"term": "Misc",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsYxlli6_EeSDXQxV6-GL8n45ywiLUYiT-WxmmlcEO02V7SN4BZS0-4pALSoKwvOdNiXTJcZO75bfpym4X57D339AvjTIq_GlBuE_Jkr4xCeMtUI0hl8FsphEzUufHHUWxUUZ41ve9I4Y_SIHI2xqWPZ6a282NGwFT7m8-LYrobPhOpql6rAF1Li4AKw/s320/tape-6824489_640%20(1).jpg"
+		}
+	]
+}
